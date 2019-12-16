@@ -1,2 +1,2 @@
 # MyTest
-Simople java program !!!!!!
+Simple java program !!!!!!
